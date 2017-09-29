@@ -1,0 +1,50 @@
+SABLE
+0 - Angry 
+1 - Daydream
+2 - Desire Forme
+3 - Downed
+4 - Happy
+5 - Irritated
+6 - Monarch Forme
+7 - Neutral
+8 - Sad
+9 - Smug
+10 - Surprised
+11 - Thinking
+
+NOIRE
+12 - Angry
+13 - Daydream
+14 - Downed
+15 - Happy
+16 - Irritated
+17 - Neutral
+18 - Sad
+19 - Smug
+20 - Surprised
+21 - Thinking
+
+CACHETTE
+22 - Angry
+23 - Daydream
+24 - Downed
+25 - Happy
+26 - Irritated
+27 - Neutral
+28 - Sad
+29 - Smug
+30 - Surprised
+31 - Thinking
+
+SET
+32 - Angry
+33 - Daydream
+34 - Downed
+35 - Happy
+36 - Irritated
+37 - Neutral
+38 - Sad
+39 - Smug
+40 - Surprised
+41 - Thinking
+
