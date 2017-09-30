@@ -6,3 +6,15 @@ Slugbox - "Master" Gardevoir, Stockings Gardevoir
 Alaleh Ostad - Serene 1 Oil on Canvas - Title Screen Background
 Luke Zammit - XBOX button icons
 Whtdragon - Volcano and demon world tiles
+
+13 63
+
+Opacity: 185
+Mode: Lighten
+Saturation: 125
+Hue: -70
+Darken: -25
+Resize: 70%
++Sat twice
+
+Right five, up five
